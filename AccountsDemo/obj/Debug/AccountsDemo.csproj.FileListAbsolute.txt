@@ -1,0 +1,6 @@
+C:\Users\a\Desktop\Assignment_4_Accounts\AccountsDemo\bin\Debug\AccountsDemo.exe.config
+C:\Users\a\Desktop\Assignment_4_Accounts\AccountsDemo\bin\Debug\AccountsDemo.exe
+C:\Users\a\Desktop\Assignment_4_Accounts\AccountsDemo\bin\Debug\AccountsDemo.pdb
+C:\Users\a\Desktop\Assignment_4_Accounts\AccountsDemo\obj\Debug\AccountsDemo.csprojResolveAssemblyReference.cache
+C:\Users\a\Desktop\Assignment_4_Accounts\AccountsDemo\obj\Debug\AccountsDemo.exe
+C:\Users\a\Desktop\Assignment_4_Accounts\AccountsDemo\obj\Debug\AccountsDemo.pdb
